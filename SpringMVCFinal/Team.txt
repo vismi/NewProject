@@ -1,0 +1,64 @@
+Team A
+-------
+1. Amit Kumar
+2. Mohnish Chandra
+3. Nitika Agarwal
+4. Manisha
+5. Gurpreet Kaur
+
+Team B
+-------
+1. Aishwarya Khanna
+2. Laxman Singh
+3. Asha Yadav
+4. Pooja Rawat
+5. Vivek Kumar Verma
+
+Team C
+-------
+1. Prerna
+2. Akshita Agarwal
+3. Nitin
+4. Harpreet Singh
+5. Nikhil
+
+Team D
+-------
+1. Piyush Arora
+2. Ankur
+3. Silvia
+4. Raghav Arora
+5. Ajay Suneja
+
+Team E
+-------
+1. Tushita
+2. Gaurav
+3. Sidhart
+4. Neha
+5. Yuganshu
+
+Team F
+-------
+1. Samridhi
+2. Ayushi
+3. Yamini Sharma
+4. Aakriti
+5. Rishika
+
+Team G
+-------
+1. Komal
+2. Namrata
+3. Arjun Rana
+4. Akansha Jain
+5. Urvashi
+
+Team H
+-------
+1. Ayush Khanna
+2. Nishtha Jain
+3. Manjali
+4. Vaibhav
+5. Anuj
+
